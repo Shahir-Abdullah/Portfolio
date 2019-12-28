@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="296" viewBox="0 0 480 296">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d32d1b;
+        font-size: 222px;
+        font-family: SegoeUI, Segoe UI;
+      }
+    </style>
+  </defs>
+  <text id="ANTi" class="cls-1" transform="translate(0 240)"><tspan x="0" y="0">ANTi</tspan></text>
+</svg>
