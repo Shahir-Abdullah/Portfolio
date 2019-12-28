@@ -2,6 +2,9 @@ body {
     margin: 0;
 }
 
+
+/* navbar */
+
 ul.topnav {
     list-style-type: none;
     margin: 0;
@@ -41,7 +44,22 @@ ul.topnav li.right {
     }
 }
 
+
+/* logo */
+
 .navigation-bar img {
     width: 200px;
     height: 100px;
+}
+
+
+/* footer */
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: center;
 }
