@@ -53,13 +53,21 @@ ul.topnav li.right {
 }
 
 
+/* about */
+
+.self {
+    padding-left: 10px;
+}
+
+
 /* footer */
 
 .footer {
     position: fixed;
+    padding-right: 10px;
     left: 0;
     bottom: 0;
     width: 100%;
-    color: black;
-    text-align: center;
+    color: rgb(6, 52, 122);
+    text-align: right;
 }
